@@ -1,24 +1,19 @@
 # Hi there, I'm Ravi! 👋
 
-![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ravib45&show_icons=true&theme=radical)
 
 ## About Me
 - 🎓 *Education*: Bachelor of Computer Application(BCA) from JSS Shri Manjunatheshwara Institute Of UG. & PG. Studies Dharwad
-- 💼 *Current Role*: [Your Job Title, if any]
-- 🌱 *Learning*: [Technologies or Skills you are currently learning]
-- 🎯 *Goals*: [Your Goals]
-- 🌐 *Website*: [Your Website or Blog, if any]
+- 💼 *Current Role*: Student
+- 🌱 *Learning*: FullStack 
+- 🎯 *Goals*: Web developer
+- 🌐 *Website*: https://ravib45.github.io/myprofile/
 
-## Projects
-Here are some of my notable projects:
-1. *[Project Name](Link to Project)*: Short description of the project.
-2. *[Project Name](Link to Project)*: Short description of the project.
-3. *[Project Name](Link to Project)*: Short description of the project.
+
 
 ## Contact
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ravibarker/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ravibarker/" height="30" width="40" /></a>
-<a href="https://github.com/Ravib45/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github-in-alt.svg" alt="https://www.github.com/in/ravibarker/" height="30" width="40" /></a>
+
 </p>
 
 ## Skills
