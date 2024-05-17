@@ -16,10 +16,9 @@ Here are some of my notable projects:
 3. *[Project Name](Link to Project)*: Short description of the project.
 
 ## Contact
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ravibarker/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ravibarker/" height="30" width="40" /></a>
+<a href="https://github.com/Ravib45/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github-in-alt.svg" alt="https://www.github.com/in/ravibarker/" height="30" width="40" /></a>
 </p>
 
 ## Skills
