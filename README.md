@@ -22,8 +22,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
   </a>
   <!-- Email -->
-   <a href="mailto:ravibarker45@gmail.com" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Email" height="30" width="40" />
+  <a href="mailto:ravibarker45@gmail.com" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/85/Envelope_font_awesome.svg" alt="Email" height="30" width="40" />
   </a>
   <!-- GitHub -->
   <a href="https://github.com/Ravib45" target="_blank">
