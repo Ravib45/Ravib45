@@ -23,7 +23,7 @@
   </a>
   <!-- Email -->
   <a href="mailto:ravibarker45@gmail.com" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/85/Envelope_font_awesome.svg" alt="Email" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/ios-filled/50/000000/email-open.png" alt="Email" height="30" width="40" />
   </a>
   <!-- GitHub -->
   <a href="https://github.com/Ravib45" target="_blank">
