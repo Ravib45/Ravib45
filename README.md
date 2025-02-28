@@ -6,7 +6,7 @@
 - 💼 *Current Role*: Student
 - 🌱 *Learning*: FullStack 
 - 🎯 *Goals*: Web developer
-- 🌐 *Website*: https://ravib45.github.io/myprofile/
+- 🌐 *Website*: https://ravib45.github.io/Ravib_profile/
 
 
 ## Skills
