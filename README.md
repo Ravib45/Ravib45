@@ -1,65 +1,56 @@
-<!-- WELCOME BANNER -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F79A3E&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile!;Full-Stack+Developer+%7C+Java+%7C+React;Building+Innovative+Tech+Projects;Always+Learning+New+Technologies!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F79A3E&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile!;Full-Stack+Developer+%7C+Java+%7C+React;Always+Learning+New+Technologies!+🚀" />
 </p>
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  Hi there, I'm <span style="color:#ff6600;">Ravi Barker</span>! 👋
-</h1>
-<h3 align="center">🚀 Passionate Full-Stack Developer | Java | React | Problem Solver</h3>
+<h1 align="center">Hi, I'm Ravi Barker! 👋</h1>
+<h3 align="center">🚀 Passionate Full-Stack Developer | Java | React</h3>
 
 ---
 
-## 🚀 **About Me**
-🔹 🎓 **MCA** from **Presidency University, Bengaluru**  
-🔹 💼 **Intern:** Junior Frontend Developer at **Ultimez Technology**  
-🔹 🌱 **Currently Learning:** Full-Stack (**MERN & Java Backend**)  
-🔹 🔭 **Projects:** **Student Management System | Local Grocery Delivery App**  
-🔹 🚀 **Career Goal:** **Become a highly skilled Web Developer**  
-🔹 💡 **Hobbies:** Coding 💻 | Cooking 🍳 | Traveling 🌍  
+## 🔥 About Me  
+- 🎓 **MCA** at **Presidency University, Bengaluru**  
+- 💼 **Intern** at **Ultimez Technology** (Junior Frontend Developer)  
+- 🌱 **Learning:** Full-Stack (**MERN & Java Backend**)  
+- 🚀 **Projects:** **Student Management System | Grocery Delivery App**  
+- 🎯 **Career Goal:** Become a **highly skilled Web Developer**  
+- 💡 **Hobbies:** Coding 💻 | Cooking 🍳 | Traveling 🌍  
 
 ---
 
-## 💻 **Tech Stack & Skills**
-🎨 **Frontend:**  
-![HTML5](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap)  
+## 💻 Skills & Tech Stack  
 
-🔥 **Backend:**  
+🔹 **Frontend:**  
+![HTML5](https://skillicons.dev/icons?i=html,css,js,react,bootstrap)  
+
+🔹 **Backend:**  
 ![Java](https://skillicons.dev/icons?i=java,spring,php,nodejs,express)  
 
-🛠️ **Databases & Cloud:**  
+🔹 **Database & Cloud:**  
 ![MySQL](https://skillicons.dev/icons?i=mysql,mongodb,firebase)  
 
-🔧 **Tools & Platforms:**  
-![Git](https://skillicons.dev/icons?i=git,github,postman,figma,vscode,linux)  
+🔹 **Tools & Platforms:**  
+![Git](https://skillicons.dev/icons?i=git,github,postman,figma,vscode)  
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ravib45&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravib45&theme=radical" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ravib45&show_icons=true&theme=radical&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravib45&theme=radical" width="48%"/>
 </p>
 
 ---
 
-## 🏆 **Trophies & Achievements**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ravib45&theme=onedark&margin-w=15&margin-h=15&no-bg=true" width="80%"/>
-</p>
-
----
-
-## 🎯 **Latest Projects**
-🚀 **Student Management System** (Java & SQL)  
-🚀 **Local Grocery Delivery App** (MERN Stack)  
+## 🎯 Projects  
+🚀 **Student Management System** *(Java & SQL)*  
+🚀 **Local Grocery Delivery App** *(MERN Stack)*  
 🚀 **Portfolio Website** [🔗 View](https://ravib45.github.io/Ravib_profile/)  
 
 ---
 
-## 📬 **Connect With Me**
-<p align="center">
+## 📬 Connect with Me  
+<p align="left">
   <a href="https://linkedin.com/in/ravibarker/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -71,34 +62,14 @@
   <a href="https://github.com/Ravib45" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>&nbsp;&nbsp;
-
-  <a href="https://ravib45.github.io/Ravib_profile/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
 </p>
 
 ---
 
-## 📢 **Profile Visitors**
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ravib45&label=Visitors&color=0e75b6&style=flat" alt="Ravi's Profile Views" />
-</p>
+## 🎵 Fun Fact  
+☕ **Java isn’t just a language, it’s a lifestyle!** 😎  
 
 ---
 
-## 🎵 **Fun Fact**  
-🎸 *"I don't just code, I create solutions!"* 🚀  
-☕ **Java isn't just a language, it's a lifestyle!**  
-
----
-
-## 🔥 **GitHub Contribution Graph**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravib45&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area_color=282b36&area=true" />
-</p>
-
----
-
-## 🎯 **Let’s Connect & Build Together! 🚀**
 🚀 **If you like my work, feel free to Star ⭐ my repositories!**  
-📩 **DM me on LinkedIn for collaborations or discussions!**  
+📩 **DM me on LinkedIn for collaborations!**  
