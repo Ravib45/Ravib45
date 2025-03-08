@@ -2,7 +2,7 @@
 
 
 ## About Me
-- 🎓 *Education*: Bachelor of Computer Application(BCA) from JSS Shri Manjunatheshwara Institute Of UG. & PG. Studies Dharwad
+- 🎓 *Education*: Masters of Computer Application(BCA) from Presidency University,Bengaluru
 - 💼 *Current Role*: Student
 - 🌱 *Learning*: FullStack 
 - 🎯 *Goals*: Web developer
