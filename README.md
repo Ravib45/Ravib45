@@ -1,109 +1,92 @@
-# Hi there, I'm Ravi! 👋  
+<h1 align="center">Hi there, I'm Ravi Barker! 👋</h1>
+<h3 align="center">🚀 Passionate Full-Stack Developer | Java | React | Problem Solver</h3>
 
-## About Me  
-- 🎓 **Education**: Master of Computer Applications (MCA) from Presidency University, Bengaluru  
-- 💼 **Current Role**: Junior Frontend Developer (Intern) at Ultimez Technology  
-- 🌱 **Learning**: Full-Stack Development (MERN & Java Backend)  
-- 🔭 **Projects**: Building a **Student Management System** using Java and a **Local Grocery Delivery App**  
-- 🎯 **Career Goal**: To become a **skilled Web Developer** with expertise in frontend and backend technologies  
-- 📖 **Interests**: Coding, Problem-Solving, UI/UX, Open Source Contributions  
-- 🌐 **Portfolio**: [My Website](https://ravib45.github.io/Ravib_profile/)  
-
----
-
-## 🚀 Skills & Technologies  
-
-### 🔹 **Frontend Development**  
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  </a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-  </a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  </a>&nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="50" height="50"/>
-  </a>&nbsp;
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="50" height="50"/>
-  </a>&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="50" height="50"/>
-  </a>&nbsp;
-</p>
-
-### 🔹 **Backend Development**  
-<p align="left">
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  </a>&nbsp;
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>
-  </a>&nbsp;
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-  </a>&nbsp;
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="50" height="50"/>
-  </a>&nbsp;
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
-  </a>
-</p>
-
-### 🔹 **Databases**  
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-  </a>&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
-  </a>&nbsp;
-</p>
-
-### 🔹 **Tools & Technologies**  
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  </a>&nbsp;
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-  </a>&nbsp;
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
-  </a>&nbsp;
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
-  </a>&nbsp;
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F79A3E&size=22&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile!;Full-Stack+Developer+%7C+Java+%7C+React;Building+Innovative+Tech+Projects;Always+Learning+New+Technologies!+🚀" />
 </p>
 
 ---
 
-## 📈 GitHub Stats  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ravib45&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravib45&theme=tokyonight" alt="GitHub Streak" width="48%"/>
+## 🚀 **About Me**
+- 🎓 **Education:** MCA, **Presidency University, Bengaluru**  
+- 💼 **Current Role:** Junior Frontend Developer (Intern) at **Ultimez Technology**  
+- 🔭 **Projects:** **Student Management System | Local Grocery Delivery App**  
+- 🌱 **Learning:** Full-Stack Development (**MERN & Java Backend**)  
+- 🎯 **Career Goal:** To become a **highly skilled Web Developer**  
+- 💡 **Hobbies:** Coding 💻 | Cooking 🍳 | Traveling 🌍  
+
+---
+
+## 🛠️ **Tech Stack & Skills**
+#### 🎨 **Frontend Development**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+#### 🔥 **Backend Development**  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+#### 🗄️ **Databases & Cloud**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+#### 🛠️ **Tools & Platforms**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 **GitHub Stats & Trophies**
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Ravib45&show_icons=true&theme=tokyonight" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ravib45&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ravib45&theme=darkhub&margin-w=10&margin-h=10&no-bg=true" />
 </p>
 
 ---
 
-## 📬 Contact Me  
+## 📬 **Connect With Me**
 <p align="left">
-  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/ravibarker/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40"/>
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   
-  <!-- Email -->
   <a href="mailto:ravibarker45@gmail.com" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-mail.svg" alt="Email" height="30" width="40"/>
+    <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
-  
-  <!-- GitHub -->
+
   <a href="https://github.com/Ravib45" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub Profile" height="30" width="40"/>
+    <img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://ravib45.github.io/Ravib_profile/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
+</p>
+
+---
+
+## ⚡ **Fun Fact**
+💡 *"I don't just code, I create solutions!"* 🚀  
+🐍 Python? Nope, I prefer **Java** ☕  
+
+---
+
+## 📢 **Profile Visitors**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ravib45&label=Visitors&color=0e75b6&style=flat" alt="Ravi's Profile Views" />
 </p>
