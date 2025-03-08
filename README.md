@@ -14,6 +14,7 @@
 - 🌱 **Learning:** Full-Stack (**MERN & Java Backend**)  
 - 🚀 **Projects:** **Student Management System | Grocery Delivery App**  
 - 🎯 **Career Goal:** Become a **highly skilled Web Developer**  
+- 🌐 **Portfolio:** [🌍 Visit My Website](https://ravib45.github.io/Ravib_profile/)  
 - 💡 **Hobbies:** Coding 💻 | Cooking 🍳 | Traveling 🌍  
 
 ---
@@ -45,7 +46,7 @@
 ## 🎯 Projects  
 🚀 **Student Management System** *(Java & SQL)*  
 🚀 **Local Grocery Delivery App** *(MERN Stack)*  
-🚀 **Portfolio Website** [🔗 View](https://ravib45.github.io/Ravib_profile/)  
+🚀 **Portfolio Website** [🔗 Visit Here](https://ravib45.github.io/Ravib_profile/)  
 
 ---
 
@@ -62,6 +63,10 @@
   <a href="https://github.com/Ravib45" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>&nbsp;&nbsp;
+
+  <a href="https://ravib45.github.io/Ravib_profile/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
 ---
