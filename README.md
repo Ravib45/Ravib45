@@ -50,7 +50,7 @@
 
 ## 🎯 **Latest Projects**
 🚀 **Student Management System** (Java & SQL)  
-🚀 **Portfolio Website** [🔗 View](https://ravib45.github.io/Ravib_profile/)  
+🚀 **Portfolio Website** [🔗 View](https://ravib45-portfolio.vercel.app/)  
 
 ---
 
