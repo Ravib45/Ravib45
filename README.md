@@ -26,13 +26,13 @@
 ![HTML5](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap)  
 
 🔥 **Backend:**  
-![Java](https://skillicons.dev/icons?i=java,spring,php,nodejs,express)  
+![Java](https://skillicons.dev/icons?i=java,php)  
 
 🛠️ **Databases & Cloud:**  
 ![MySQL](https://skillicons.dev/icons?i=mysql)  
 
 🔧 **Tools & Platforms:**  
-![Git](https://skillicons.dev/icons?i=git,github,postman,figma,vscode,linux)  
+![Git](https://skillicons.dev/icons?i=github,figma,vscode,linux)  
 
 ---
 
