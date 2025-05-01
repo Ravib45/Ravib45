@@ -40,10 +40,6 @@
 
 ---
 
-
-
----
-
 ## 🎯 **Latest Projects**
 🚀 **Student Management System** (Java & SQL)  
 🚀 **Portfolio Website** [🔗 View](https://ravib45-portfolio.vercel.app/)  
@@ -75,12 +71,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ravib45&label=Visitors&color=0e75b6&style=flat" alt="Ravi's Profile Views" />
 </p>
-
----
-
-## 🎵 **Fun Fact**  
-🎸 *"I don't just code, I create solutions!"* 🚀  
-☕ **Java isn't just a language, it's a lifestyle!**  
 
 ---
 
