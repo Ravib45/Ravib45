@@ -17,7 +17,7 @@
 🔹 🌱 **Currently Learning:** Full-Stack (**MERN & Java Backend**)  
 🔹 🔭 **Projects:** **Student Management System | Local Grocery Delivery App**  
 🔹 🚀 **Career Goal:** **Become a highly skilled Web Developer**  
-🔹 💡 **Hobbies:** Coding 💻 | Cooking 🍳 | Traveling 🌍  
+🔹 💡 **Hobbies:** Coding 💻 | Learning 📖 | Traveling 🌍  
 
 ---
 
