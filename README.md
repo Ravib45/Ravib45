@@ -9,9 +9,10 @@
 </h1>
 <h3 align="center">🚀 Passionate Full-Stack Developer | Java | React | Problem Solver</h3>
 
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+<p align="center">
+  <img src="https://i.gifer.com/origin/2a/2a6d15359f3d14d7d4aa78eb2b76878c_w200.gif" width="100%" />
 </p>
+
 
 ## 🚀 **About Me**
 🔹 🎓 **MCA** student at **Presidency University, Bengaluru**  
