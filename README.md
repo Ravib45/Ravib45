@@ -5,7 +5,7 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  Hi there, I'm <span style="color:#ff6600;">[Your Name]</span>! 👋
+  Hi there, I'm <span style="color:#ff6600;">Ravi B</span>! 👋
 </h1>
 <h3 align="center">🚀 Passionate Full-Stack Developer | Java | React | Problem Solver</h3>
 
@@ -86,3 +86,6 @@
 ## 🎯 **Let’s Connect & Build Together! 🚀**
 🚀 **If you like my work, feel free to Star ⭐ my repositories!**  
 📩 **DM me on LinkedIn for collaborations or discussions!**  
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
