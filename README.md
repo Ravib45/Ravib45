@@ -10,8 +10,9 @@
 <h3 align="center">🚀 Passionate Full-Stack Developer | Java | React | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://i.gifer.com/origin/2a/2a6d15359f3d14d7d4aa78eb2b76878c_w200.gif" width="100%" />
+  <img src="https://www.gifs.cc/lines/electric-blue-roll.gif" width="100%" />
 </p>
+
 
 
 ## 🚀 **About Me**
@@ -22,9 +23,10 @@
 🔹 🚀 **Career Goal:** **Crack a 10 LPA job & build real-world impactful products**  
 🔹 💡 **Hobbies:** Coding 💻 | Learning 📖 | Exploring Tech 🌐  
 
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+<p align="center">
+  <img src="https://www.wilsoninfo.com/lines/glitter-line.gif" width="100%" />
 </p>
+
 
 ## 💻 **Tech Stack & Skills**
 🎨 **Frontend:**  
@@ -39,9 +41,10 @@
 🔧 **Tools & Platforms:**  
 ![Git](https://skillicons.dev/icons?i=github,figma,vscode,linux)  
 
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+<p align="center">
+  <img src="https://www.gifs.cc/lines/line-of-many-colors.gif" width="100%" />
 </p>
+
 
 ## 🎯 **Latest Projects**
 🚀 **Student Management System** (Java & SQL)  
