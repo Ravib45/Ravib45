@@ -9,7 +9,9 @@
 </h1>
 <h3 align="center">🚀 Passionate Full-Stack Developer | Java | React | Problem Solver</h3>
 
----
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 ## 🚀 **About Me**
 🔹 🎓 **MCA** student at **Presidency University, Bengaluru**  
@@ -19,7 +21,9 @@
 🔹 🚀 **Career Goal:** **Crack a 10 LPA job & build real-world impactful products**  
 🔹 💡 **Hobbies:** Coding 💻 | Learning 📖 | Exploring Tech 🌐  
 
----
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 ## 💻 **Tech Stack & Skills**
 🎨 **Frontend:**  
@@ -34,14 +38,18 @@
 🔧 **Tools & Platforms:**  
 ![Git](https://skillicons.dev/icons?i=github,figma,vscode,linux)  
 
----
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 ## 🎯 **Latest Projects**
 🚀 **Student Management System** (Java & SQL)  
 🚀 **Portfolio Website** [🔗 View](https://your-portfolio-url.vercel.app/)  
 🚗 **Car Racing Game using JS & DOM Events** – [Childhood Game Reimagined]  
 
----
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 ## 📬 **Connect With Me**
 <p align="center">
@@ -62,14 +70,18 @@
   </a>
 </p>
 
----
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 ## 📢 **Profile Visitors**
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Visitors&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 ## 🎯 **Let’s Connect & Build Together! 🚀**
 🚀 **If you like my work, feel free to Star ⭐ my repositories!**  
