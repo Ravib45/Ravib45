@@ -41,9 +41,21 @@
 🔧 **Tools & Platforms:**  
 ![Git](https://skillicons.dev/icons?i=github,figma,vscode,linux)  
 
+<!-- New Animated Line -->
 <p align="center">
-  <img src="https://www.gifs.cc/lines/line-of-many-colors.gif" width="100%" />
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 </p>
+
+<!-- Another Different Animated Line -->
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0163.gif" width="100%" />
+</p>
+
+<!-- Yet Another Different One -->
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0159.gif" width="100%" />
+</p>
+
 
 
 ## 🎯 **Latest Projects**
