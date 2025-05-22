@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
   Hi there, I'm <span style="color:#ff6600;">Ravi B</span>! 👋
 </h1>
 <h3 align="center">🚀 Passionate Full-Stack Developer | Java | React | Problem Solver</h3>
@@ -12,8 +12,6 @@
 <p align="center">
   <img src="https://www.gifs.cc/lines/electric-blue-roll.gif" width="100%" />
 </p>
-
-
 
 ## 🚀 **About Me**
 🔹 🎓 **MCA** student at **Presidency University, Bengaluru**  
@@ -26,7 +24,6 @@
 <p align="center">
   <img src="https://www.wilsoninfo.com/lines/glitter-line.gif" width="100%" />
 </p>
-
 
 ## 💻 **Tech Stack & Skills**
 🎨 **Frontend:**  
@@ -41,23 +38,19 @@
 🔧 **Tools & Platforms:**  
 ![Git](https://skillicons.dev/icons?i=github,figma,vscode,linux)  
 
-
-
-
-
 ## 🎯 **Latest Projects**
 🚀 **Student Management System** (Java & SQL)  
 🚀 **Portfolio Website** [🔗 View](https://your-portfolio-url.vercel.app/)  
 🚗 **Car Racing Game using JS & DOM Events** – [Childhood Game Reimagined]  
 
 <p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 </p>
 
 ## 📬 **Connect With Me**
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin-id/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   
   <a href="mailto:your-email@gmail.com" target="_blank">
@@ -74,7 +67,7 @@
 </p>
 
 <p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 </p>
 
 ## 📢 **Profile Visitors**
@@ -83,47 +76,57 @@
 </p>
 
 <p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 </p>
 
 ## 🎯 **Let’s Connect & Build Together! 🚀**
 🚀 **If you like my work, feel free to Star ⭐ my repositories!**  
 📩 **DM me on LinkedIn for collaborations or discussions!**  
 
-
-
-<!-- New Animated Line -->
+<!-- New Animated Lines -->
 <p align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 </p>
 
-<!-- Another Different Animated Line -->
 <p align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0163.gif" width="100%" />
 </p>
 
-<!-- Yet Another Different One -->
 <p align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0159.gif" width="100%" />
 </p>
 
 <!-- Rainbow Gradient Line -->
-![Rainbow Gradient Line](https://www.gifs.cc/lines/rainbow-line.gif)
+<p align="center">
+  <img src="https://www.gifs.cc/lines/rainbow-line.gif" width="100%" />
+</p>
 
 <!-- Electric Blue Pulse -->
-![Electric Blue Pulse](https://www.gifs.cc/lines/electric-blue-roll.gif)
+<p align="center">
+  <img src="https://www.gifs.cc/lines/electric-blue-roll.gif" width="100%" />
+</p>
 
 <!-- Flashing Neon Lights -->
-![Flashing Neon Lights](https://www.gifs.cc/lines/line-of-many-colors.gif)
+<p align="center">
+  <img src="https://www.gifs.cc/lines/line-of-many-colors.gif" width="100%" />
+</p>
 
 <!-- Pastel Wave Line -->
-![Pastel Wave Line](https://www.gifs.cc/animated-lines-2/pastel-wave.gif)
+<p align="center">
+  <img src="https://www.gifs.cc/animated-lines-2/pastel-wave.gif" width="100%" />
+</p>
 
 <!-- Fire Animation Line -->
-![Fire Animation Line](https://www.gifs.cc/animated-lines-2/fire-line.gif)
+<p align="center">
+  <img src="https://www.gifs.cc/animated-lines-2/fire-line.gif" width="100%" />
+</p>
 
 <!-- Glitter Sparkle Line -->
-![Glitter Sparkle Line](https://www.wilsoninfo.com/lines/glitter-line.gif)
+<p align="center">
+  <img src="https://www.wilsoninfo.com/lines/glitter-line.gif" width="100%" />
+</p>
 
 <!-- Chrome Flashing Line -->
-![Chrome Flashing Line](https://www.gifs.cc/animated-lines-2/chrome-flash.gif)
+<p align="center">
+  <img src="https://www.gifs.cc/animated-lines-2/chrome-flash.gif" width="100%" />
+</p>
