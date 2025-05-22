@@ -41,20 +41,7 @@
 🔧 **Tools & Platforms:**  
 ![Git](https://skillicons.dev/icons?i=github,figma,vscode,linux)  
 
-<!-- New Animated Line -->
-<p align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
-</p>
 
-<!-- Another Different Animated Line -->
-<p align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0163.gif" width="100%" />
-</p>
-
-<!-- Yet Another Different One -->
-<p align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0159.gif" width="100%" />
-</p>
 
 
 
@@ -102,6 +89,41 @@
 ## 🎯 **Let’s Connect & Build Together! 🚀**
 🚀 **If you like my work, feel free to Star ⭐ my repositories!**  
 📩 **DM me on LinkedIn for collaborations or discussions!**  
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+
+
+
+<!-- New Animated Line -->
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 </p>
+
+<!-- Another Different Animated Line -->
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0163.gif" width="100%" />
+</p>
+
+<!-- Yet Another Different One -->
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0159.gif" width="100%" />
+</p>
+
+<!-- Rainbow Gradient Line -->
+![Rainbow Gradient Line](https://www.gifs.cc/lines/rainbow-line.gif)
+
+<!-- Electric Blue Pulse -->
+![Electric Blue Pulse](https://www.gifs.cc/lines/electric-blue-roll.gif)
+
+<!-- Flashing Neon Lights -->
+![Flashing Neon Lights](https://www.gifs.cc/lines/line-of-many-colors.gif)
+
+<!-- Pastel Wave Line -->
+![Pastel Wave Line](https://www.gifs.cc/animated-lines-2/pastel-wave.gif)
+
+<!-- Fire Animation Line -->
+![Fire Animation Line](https://www.gifs.cc/animated-lines-2/fire-line.gif)
+
+<!-- Glitter Sparkle Line -->
+![Glitter Sparkle Line](https://www.wilsoninfo.com/lines/glitter-line.gif)
+
+<!-- Chrome Flashing Line -->
+![Chrome Flashing Line](https://www.gifs.cc/animated-lines-2/chrome-flash.gif)
